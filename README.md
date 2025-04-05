@@ -32,6 +32,9 @@ Utilizes banking marketing datasets with attributes such as:
 - Achieved significant lift in targeting strategy (simulated)
 - Suggested optimized campaign strategies for future use
 
+  <img width="745" alt="image" src="https://github.com/user-attachments/assets/bcf776a2-1283-40bd-9489-439abc2649b0" />
+
+
 ## 📌 Future Scope
 
 - Deploying live dashboard for managers
