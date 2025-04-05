@@ -33,7 +33,8 @@ Utilizes banking marketing datasets with attributes such as:
 - Suggested optimized campaign strategies for future use
 
   <img width="745" alt="image" src="https://github.com/user-attachments/assets/bcf776a2-1283-40bd-9489-439abc2649b0" />
-
+##Decision Tree Algorithm analysis
+![image](https://github.com/user-attachments/assets/228071b1-9c7d-4a61-b050-97dac2441481)
 
 ## 📌 Future Scope
 
